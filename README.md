@@ -1,4 +1,4 @@
-# Module 5 Individual Problem Set
+# Module 3 - Classes Individual Problem Set
 
 Please complete one problem from the Module 5 Problem Set. The other problem will be completed with the help of a partner.
 
